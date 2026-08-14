@@ -7,14 +7,8 @@
 
 
 
-<br>
-
 Currently building **Suzume**, a Telegram "Personal OS" bot written in Python: a self-hosted assistant that lives in Telegram and handles day-to-day tasks, reminders, and personal workflows.
 
-<br>
-
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dreamspwn/dreamspwn/output/github-contribution-grid-snake-dark.svg" />
