@@ -13,11 +13,15 @@ Currently building **Suzume**, a Telegram "Personal OS" bot written in Python â€
 
 <br>
 
-### ðŸ“Š Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dreamspwn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamspwn&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com/?user=dreamspwn&theme=radical)
+
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamspwn&show_icons=true&locale=en&layout=compact" alt="dreamspwn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamspwn&show_icons=true&locale=en" alt="dreamspwn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamspwn&" alt="dreamspwn" /></p>
 
 <br>
 
